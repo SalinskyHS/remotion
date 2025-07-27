@@ -1,0 +1,7 @@
+body { margin: 0; font-family: Arial, sans-serif; }
+.App { padding: 2rem; }
+.grid { display: grid; gap: 1.5rem; }
+.cards { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+th { background: #f4f4f4; }
