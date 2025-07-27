@@ -1,0 +1,13 @@
+{
+  "kpi": {
+    "applied": 18,
+    "responses": 6,
+    "interviews": 3,
+    "offers": 1,
+    "avgResponseDays": 3.2
+  },
+  "apps": [
+    {"date":"2025-07-27","company":"Vultr","role":"Product Manager, AI Services","status":"Sent","fup":"2025-07-29","kw":["LLMOps","KPI/OKR","Make.com"]},
+    {"date":"2025-07-27","company":"GetWellNetwork","role":"Healthcare Solution Architect","status":"Response","fup":"2025-07-30","kw":["HL7/FHIR","SBAR","Automation"]}
+  ]
+}
